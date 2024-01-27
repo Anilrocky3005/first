@@ -17,6 +17,7 @@ function Nav() {
                 <input className='form-control  mt-2 ' placeholder='Enter your Age'  type="number"></input> 
                 <button className=' btn btn-secondary mt-3' onClick={()=>{
                     alert('entered details will be submiited')
+                    
                 }}>SUMBIT</button>
             </form>
         </div>
